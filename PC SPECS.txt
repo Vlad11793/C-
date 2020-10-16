@@ -1,0 +1,8 @@
+UserBenchmarks: Game 113%, Desk 83%, Work 56%
+CPU: Intel Core i5-6600K - 79.7%
+GPU: Nvidia RTX 2070 - 142.8%
+SSD: Samsung 860 Evo 500GB - 115.4%
+SSD: Samsung 850 Evo 250GB - 107.7%
+HDD: Seagate Barracuda 7200.12 1TB - 66.1%
+RAM: Crucial BLS8G4D240FSB.16FBD 2x8GB - 79.8%
+MBD: MSI Z270 SLI PLUS (MS-7A59)
